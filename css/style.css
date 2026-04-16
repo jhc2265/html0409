@@ -160,7 +160,7 @@ header nav .gnb li a {flex-grow: 1; text-align: center; padding: 13px 0;}
 
 
 #section04 .content li a .textbox p {font: 16px;}
-#section04 .content li a {overflow: hidden;}
+#section04 .content li a {}
 #section04 .content li a .textbox {color: #fff;}
 #section04 .content li a .textbox h3 {font-size: 28px; margin-bottom: 8px;}
 #section04 .content li a .textbox p {font-size: 16px;}
@@ -169,7 +169,7 @@ header nav .gnb li a {flex-grow: 1; text-align: center; padding: 13px 0;}
 #section04 .content li .sec4_img3 {position: absolute; right: 70px; bottom: 0;}
 #section04 .content li .sec4_img4 {position: absolute; right: 126px; bottom: 0;}
 
-#section04 .content li .num {position: absolute; font-size: 126px; color: #6031CC;  right: -38px; bottom: -40px;}
+#section04 .content li .num {position: absolute; font-size: 126px; color: #6031CC;  right: -30px; bottom: -40px;}
 
 
 footer {background: #222222; padding: 24px, 0;}
